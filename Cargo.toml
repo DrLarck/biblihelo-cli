@@ -1,5 +1,5 @@
 [package]
-name = "biblihelo"
+name = "biblihelo-cli"
 version = "0.1.0"
 edition = "2021"
 authors = ["Lahcène Belhadi <lahcene.belhadi@gmail.com>"]
